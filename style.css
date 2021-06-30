@@ -1,0 +1,30 @@
+main{
+  width:700px;
+  height:250px;
+  margin-left:200px;
+}
+body{
+  background-color:rgb(255, 255, 255);
+}
+img{
+  
+ width:700px;
+}
+#not1{
+  background-color:rgb(238, 238, 238);
+}
+#not2{
+  background-color:rgb(238, 238, 238);
+}
+#not3{
+  background-color:rgb(238, 238, 238);
+}
+#not4{
+  background-color:rgb(238, 238, 238);
+}
+#not5{
+  background-color:rgb(238, 238, 238);
+}
+h1{
+color:rgb(168, 0, 0);
+}
