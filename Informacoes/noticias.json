@@ -1,0 +1,47 @@
+[
+  {
+    "id":"001",
+    "titulo":"SES transfere neste domingo pacientes de Campo Grande para São Paulo",
+    "data":"06/06/2021 às 14:20",
+    "autor":"SES",
+    "resumo":"O Governo do Estado, por meio da Secretaria de Estado de Saúde, transfere pacientes com Covid-19 de Campo Grande para o Estado de São Paulo neste domingo (6). A decisão veio após reunião coordenada pelo coronel Marcello Fraiha, Assessor da Secretaria de Estado de Saúde, em que envolveu diversos representantes de instituições de Mato Grosso do Sul, São Paulo, Campo Grande, além do Ministério da Saúde e da Defesa.",
+    "texto":"Em principio serão transferidos pacientes que se encontram internados em unidades de saúde de Campo Grande e que as referidas famílias já deram autorização para a transferência. Será feito o translado em ambulâncias até a Base Aérea de Campo Grande. A Central Estadual de Regulação está levantando junto aos municípios da microrregião de Campo Grande outros pacientes elegíveis para a transferência ainda neste domingo."
+  },
+
+  {
+    "id":"002",
+    "titulo":"PMA de Bataguassu fiscaliza 42 pescadores nos rios Paraná, Pardo e Anhanduí e apreende petrechos ilegais",
+    "data":"06/06/2021 às 08:06",
+    "autor":"Bárbara Ballestero",
+    "resumo":"Uma das equipes da Polícia Militar Ambiental de Bataguassu, que trabalha na operação Corpus Christi/Big Fish III/21, realizou fiscalização no rio Paraná, envolvendo o Lago da Usina Sérgio Motta, e nos rios Anhanduí e Pardo e apreendeu neste sábado (5), diversos petrechos ilegais para pesca.",
+    "texto":"Durante os trabalhos, a PMA fiscalizou 42 pessoas desenvolvendo pesca amadora e profissional e todos pescavam legalmente, porém, a equipe retirou dos rios duas redes de pesca, 57 anzóis de galho, quatro joão-bobo (boias) e uma corda de espinhel com 15 anzóis. Os infratores que armaram os petrechos ilegais não foram localizados e nem identificados."
+  },
+
+  {
+    "id": "003",
+    "titulo" : "Covid-19: Fiocruz chega a 50 milhões de doses de vacinas entregues",
+    "data": "06/06/2021 às 08:03 ",
+    "autor": "Agência Brasil",
+    "resumo": "A Fundação Oswaldo Cruz (Fiocruz) chegou ontem (4) a 50,9 milhões de doses de vacinas contra covid-19 entregues ao Programa Nacional de Imunizações (PNI). A soma foi atingida com a liberação de mais 3,3 milhões de doses do imunizante Oxford/AstraZeneca.",
+    "texto": "O número total de entregas inclui 46,9 milhões de doses que foram produzidas no Instituto de Tecnologia em Imunobiológicos (Bio-Manguinhos/Fiocruz) e 4 milhões de vacinas importadas prontas do Instituto Serum, da Índia. No segundo caso, a Fiocruz também negociou o envio das doses e realizou a checagem e rotulagem em português dos frascos recebidos."
+  },
+
+  {
+    "id":"004",
+    "titulo":"Covid-19: Decreto com medidas restritivas é prorrogado até 12 de junho em Nova Andradina",
+    "data":"04/06/2021 às 16:17",
+    "autor":"Acácio Gomes",
+    "resumo":"O decreto 2.789 publicado pelo Governo Municipal de Nova Andradina no dia 28/05/2021 e que valeria até este domingo 06/06/2021, foi prorrogado por mais seis dias e se estende até 12/06/2021. O documento com medidas restritivas visa tentar frear o avanço da pandemia de Covid-19 no município.",
+    "texto":"Podem circular dentro do horário do toque de recolher apenas servidores das forças de segurança em serviço, profissionais da área da saúde em serviço e trabalhadores de segmentos considerados essenciais."
+  },
+
+  {
+    "id":"005",
+    "titulo":"Covid-19: Mulher de 70 anos morre poucas horas depois de procurar o hospital em Nova Andradina",
+    "data":"05/06/2021 às 14:24",
+    "autor":"Bárbara Ballestero",
+    "resumo":"Faleceu neste sábado(05) Zelita Rosa Mendes da Costa, de 70 anos, 78ª vítima de covid-19, em Nova Andradina.",
+    "texto":"Nova Andradina tem neste sábado (05) 168 casos ativos de covid-19 e 2947 casos recuperados. Esta é a segunda morte em decorrência da doença do dia, sendo que a primeira ocorreu durante a madrugada e vitimou Donizete Cardoso, de 63 anos, conhecido como Bem-te-vi."
+  }
+
+]
