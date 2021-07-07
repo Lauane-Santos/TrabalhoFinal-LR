@@ -1,0 +1,83 @@
+header{
+  background-color: rgb(150, 7, 7);
+  width: 1150px;
+  height: 150px;
+  border: 5px solid white;
+}
+#siteNome{
+  color: white;
+  font-family: Times New Roman;
+  font-size:60px;
+  margin-left:60px;
+  margin-top:20px;
+}
+#barraBusca{
+  background-color: white;
+  margin-left:500px;
+  width: 400px;
+  height: 30px;
+margin-top:-70px;
+cursor: pointer;
+}
+#imgLupa{
+ margin-left:900px;
+ margin-top: -90px;
+ cursor: pointer;
+}
+#publicidade1{
+  margin-left:800px;
+  margin-top:-2950px;
+  cursor: pointer;
+}
+
+#publicidade4{
+  margin-left:60px;
+  cursor: pointer;
+}
+#notPrincipal{
+font-family:Georgia;
+}
+#notSecundaria{
+font-family:Georgia;
+}
+#rodapee{
+  background-color:rgb(150, 7, 7);
+  width: 100%;
+  height:200px;
+  margin-top:300px;
+  border: 5px solid white;
+}
+#msgRodape{
+  color: white;
+  font-family: Times New Roman;
+}
+body{
+  background-color: rgba(0, 0, 0, 0.055);
+}
+h1 {
+ color: rgb(150, 7, 7);
+ border: solid;
+}
+h2 {
+ color: rgb(150, 7, 7);
+ border: solid;
+}
+a:hover {
+ color: rgb(150, 7, 7) ;
+
+}
+
+a:link, a:visited {
+	text-decoration: none
+}
+a:hover {
+	text-decoration: underline;
+	color: solid
+}
+a:active {
+	text-decoration: none
+}
+#emojis{
+  color: white;
+  font-size: 20px;
+}
